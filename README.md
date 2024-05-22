@@ -1,5 +1,3 @@
----
-
 🌟 **Introducing JORUINEX - Your DevOps Partners for Software Development Excellence!**
 
 JORUINEX is a team of DevOps Engineers dedicated to excelling in the realms of DevOps and software development. With around 10 years of combined experience, we're focused on honing our skills in various domains, including web development, cloud technologies, and more.
@@ -19,5 +17,3 @@ Voluntary projects provide invaluable opportunities for us to gain hands-on expe
 🤝 **Let's Collaborate and Grow:**
 
 We extend an invitation to organizations seeking passionate individuals to join us in our journey towards excellence in DevOps and software development. If you have a project where our expertise and enthusiasm can make a difference, we're ready to collaborate and contribute to its success.
-
----
